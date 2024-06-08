@@ -1,0 +1,44 @@
+﻿  Autonomous Maze Solver.cpp
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(62,26): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(62,31): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(63,46): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(63,51): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(66,26): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(66,31): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(67,46): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(67,51): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(70,24): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(70,29): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(71,44): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(71,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(74,24): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(74,29): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(75,44): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(75,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(83,42): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(83,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(85,42): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(85,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(87,40): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(87,45): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(89,40): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(89,45): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(94,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(95,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(107,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(107,55): warning C4244:         with
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(107,55): warning C4244:         [
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(107,55): warning C4244:             T=float
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(107,55): warning C4244:         ]
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(107,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(107,47): warning C4244:         with
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(107,47): warning C4244:         [
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(107,47): warning C4244:             T=float
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(107,47): warning C4244:         ]
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(206,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(207,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(232,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(233,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(283,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Bahria University\Semester 4\DSA\Project\RR\Autonomous Maze Solver.cpp(316,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  RR.vcxproj -> E:\Bahria University\Semester 4\DSA\Project\RR\x64\Debug\RR.exe
